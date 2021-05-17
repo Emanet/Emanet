@@ -11,7 +11,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/emanet/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emanet&show_icons=true&include_all_commits=true&theme=default" alt="Emanet's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emanet&show_icons=true&include_all_commits=true&theme=defaultinclude_all_commits=true&count_private=true" alt="Emanet's github stats" />
 </a>
 <a href="https://github.com/emanet/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanet&layout=compact&theme=default" />
