@@ -20,9 +20,7 @@
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="nodejs"/> 
  <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/> 
  <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
- <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
-
-
+ <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> </a>
 </p>
 
 <p align="center">
